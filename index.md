@@ -10,7 +10,7 @@ humandate: "Mar 18-26, 2024"
 humantime: "10:00 - 18:00 CEST"   
 enddate: 2024-03-26        
 instructor: ["Carsten Fortmann-Grote", "Nikoleta Glynatsi"] 
-helper: ["Beate Gericke", "Octavio Reyes-Matte"]     
+helper:     
 email: ["computing@evolbio.mpg.de"]    
 collaborative_notes:  
 eventbrite:           
