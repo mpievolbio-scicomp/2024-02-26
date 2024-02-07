@@ -309,7 +309,7 @@ Edit the text to match who can attend the workshop. For instance:
 1. **Programming Style**: How can I make my programs more readable? How do most programmers format their code? How can programs check their own operation?
 
 <h2 id="registration">Registration</h2>
-To register, please use [our registrations page](https://workshops.evolbio.mpg.de/event/86/registrations/ "Registration form").
+To register, please use [our registrations page](https://workshops.evolbio.mpg.de/event/106/registrations "Registration form").
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
