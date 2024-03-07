@@ -1,3 +1,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:mpievolbio-scicomp/2024-03-18-MPIEvolBio.wiki.git
+[submodule "2024-03-18-MPIEvolBio.wiki"]
+	path = 2024-03-18-MPIEvolBio.wiki
+	url = git@github.com:mpievolbio-scicomp/2024-03-18-MPIEvolBio.wiki.git
