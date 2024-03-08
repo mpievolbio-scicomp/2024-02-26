@@ -398,7 +398,7 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
-The workshop schedule is here: [https://github.com/mpievolbio-scicomp/2024-03-18-MPIEvolBio/wiki/Schedule#schedule](https://github.com/mpievolbio-scicomp/2023-04-04-MPIEvolBio/wiki/Schedule#schedule).
+The workshop schedule is here: [https://github.com/mpievolbio-scicomp/2024-03-18-MPIEvolBio/wiki/Schedule#schedule](https://github.com/mpievolbio-scicomp/2024-03-18-MPIEvolBio/wiki/Schedule#schedule).
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
