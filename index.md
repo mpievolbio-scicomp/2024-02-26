@@ -12,7 +12,7 @@ enddate: 2024-03-26
 instructor: ["Carsten Fortmann-Grote", "Nikoleta Glynatsi"] 
 helper:     
 email: ["computing@evolbio.mpg.de"]    
-collaborative_notes:  
+collaborative_notes: "https://s.gwdg.de/KgjhAY"
 eventbrite:           
 ---
 
