@@ -7,7 +7,7 @@ language: "en"
 latitude: "54"        
 longitude: "10"       
 humandate: "Mar 18-26, 2024"    
-humantime: "10:00 - 18:00 CEST"   
+humantime: "09:00 - 18:00 CEST"   
 enddate: 2024-03-26        
 instructor: ["Carsten Fortmann-Grote", "Nikoleta Glynatsi"] 
 helper:     
